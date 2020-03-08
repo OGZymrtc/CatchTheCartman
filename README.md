@@ -4,7 +4,7 @@ It is a mobile game where we try to click on the randomly appearing Cartman with
 
 # Built With
 
- -Android Studio
+ -Android Studio<br>
  -Java
  
  # Author
